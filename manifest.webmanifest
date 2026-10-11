@@ -1,6 +1,6 @@
 {
-  "name": "Soso Pet",
-  "short_name": "Soso Pet",
+  "name": "Turtle Playtime (Prototype)",
+  "short_name": "Turtle Playtime (Prototype)",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
